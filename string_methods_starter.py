@@ -7,6 +7,3 @@ print(name.swapcase())
 
 # 1. Use print and a built-in method to print out the string "JOHN JACOB JINGELHEIMER SCHMIDT"
 
-
-# 2. Use print and a built-in method to count how many times the letter i is in Mr. Schmidt's name.
-
